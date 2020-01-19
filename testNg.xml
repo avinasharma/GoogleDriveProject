@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cloud Elements Test Suite" >
+
+    <test name="Google Drive TestCases">
+        <classes>
+            <class name="tests.API_Automation" />
+            <class name ="tests.GoogleDriveUI" />
+        </classes>
+    </test>
+
+</suite>
