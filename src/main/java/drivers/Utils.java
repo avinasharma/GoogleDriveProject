@@ -13,11 +13,11 @@ public class Utils {
     protected static WebDriver driver ;
 
     protected String CloudElementSignUpLink = "http://my.cloudelements.io/";
-    protected String GithubUsername = "avinashsharma68@gmail.com";
-    protected String GithubPassword = "c2hhcm1hMDFA";
+    protected String GithubUsername = "";
+    protected String GithubPassword = "";
     protected String Application = "Google Drive";
-    protected String EmailUsername = "avinashkmr0111";
-    protected String EmailPassword = "YXZpbmFzaDY4Lg==";
+    protected String EmailUsername = "";
+    protected String EmailPassword = "";
 
 
 
