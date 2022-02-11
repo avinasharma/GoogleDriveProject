@@ -19,9 +19,9 @@ import java.io.File;
  */
 
 public class API_Automation extends Locators{
-    private String token = "User 3HvzWykYeYXZ9bjYqFYANzQY1GvepUqdLSorsoSTOJw=, " +
-            "Organization 6e76e7fd7f1da58c520f71b49bd0373d, " +
-            "Element 4jb2Pj2GXEZ9QXZqHtn5HB22xYPTG02JSfPZQA+MODU=";
+    private String token = "User , " +
+            "Organization , " +
+            "Element ";
 
 
     @Test(priority = 1)
